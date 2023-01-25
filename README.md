@@ -60,8 +60,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jitenderdev&show_icons=true&theme=dark&locale=en" alt="jitenderdev" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitenderdev&show_icons=true&theme=dark&locale=en&layout=compact" alt="jitenderdev" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=uditdeshwal&show_icons=true&theme=dark&locale=en" alt="jitenderdev" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=uditdeshwal&show_icons=true&theme=dark&locale=en&layout=compact" alt="jitenderdev" /></td>
   </tr>
 </table>
 
